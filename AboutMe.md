@@ -1,8 +1,0 @@
-- 👋 Hi, I’m @Jack-TheDev
-- 👀 I’m interested in Learning About Python, And Other Tech Related Topics
-- 🌱 I’m currently learning Python
-- 📫 How to reach me jack.the.dev.2222@gmail.com
--  Only Contact Me Via Email, if You Want to Collaborate On Something, Python Only
--  I Am Not A Pro At Python, I'm At Best A Novice
--  I Am Always Ready, To Take On A Challenge, As Long As I Understand What I Need To Do To Complete It
--  If You Want To Collaborate Email Me, With The Subject 'Collaboration' And I'll Respond, Once I See The Email (If I Don't Respond After 3 Days, Then Send A Follow-Up Email)
